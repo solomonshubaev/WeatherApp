@@ -1,5 +1,7 @@
 # WeatherApp
 Very simple weather app that uses API from: https://openweathermap.org/api
+Youtube video that shows the app: https://youtu.be/jgnSdFtN9-w
+
 
 This is my first android project. I developed it during summer vacation (before my last year of the degree).
 The project uses the following skills: 
